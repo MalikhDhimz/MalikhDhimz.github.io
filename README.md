@@ -50,7 +50,7 @@
     </section>
     <section id="contact" class="contact">
             <div class="contact-img">
-                <img src="./philosophy.PNG" alt="">
+                <img src="/philosophy.PNG" alt="">
             </div>
             <l class="contact-content">
                 <h1 class="typing-text3">My <span></span></h1>
