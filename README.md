@@ -25,7 +25,7 @@
 
     <section id="home" class="home">
         <div class="home-img">
-            <img src="../gojo.JPG" alt="">
+            <img src="./gojo.jpeg" alt="">
         </div>
         <div class="home-content">
             <h2>long time no see, It's me</h2> <h1><span>Malikh Ridwan</span></h1>
