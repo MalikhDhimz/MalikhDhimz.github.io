@@ -25,7 +25,7 @@
 
     <section id="home" class="home">
         <div class="home-img">
-            <img src="./gojo.jpeg" alt="">
+            <img src="./gojo.jpg" alt="">
         </div>
         <div class="home-content">
             <h2>long time no see, It's me</h2> <h1><span>Malikh Ridwan</span></h1>
@@ -38,7 +38,7 @@
     <section id="perpetual" class="perpetual">
         <div class="container">
             <div class="perpetual-img">
-                <img src="./Perpetual.JPG" alt="">
+                <img src="./Perpetual.jpg" alt="">
             </div>
             <l class="perpetual-content">
                 <h1 class="typing-text2">Perpetual <span></span></h1>
